@@ -10,8 +10,6 @@
 
 (function() {
 
-  alert(1);
-
   var go = function() {
     location.href = "http://video.fc2.com/a/movie_search.php?keyword=%E3%81%8C%E3%81%B0%E3%81%8C%E3%81%B0";
   };
